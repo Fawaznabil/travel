@@ -17,7 +17,7 @@
     <nav>
         <div class="layar-dalam">
             <div class="logo">
-                <a href=""><img src ="aset/logo_lengkap_salwa_travel-removebg-preview.png"class="putih"></a>
+                <a href=""><img src ="aset/foto1.jpg"class="putih"></a>
                 </div>
             <div class="menu">
                 <a href ="#"class ="Tombol-Menu">
